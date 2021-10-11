@@ -1,0 +1,36 @@
+Untuk Pelanggan mohon hanya menginputkan angka saja :)
+Masukkan nama anda                  :firas
+                                     
+ 1. yes                                     
+ 2. no                                     
+Apakah anda memiliki kartu member :1
+Anda Mendapatkan Diskon 5%
+
+Pilihan:     
+ 1. Sate               
+ 2. Pecel               
+ 3. Penyetan
+
+Masukkan Pilihan :2
+
+Menu Pecel :
+ 3. Nasi Ayam (Rp. 13.000)            
+ 4. Nasi Empal(Rp. 15.000)
+
+Masukkan Pilihan :4
+Jumlah Pesan : 1
+
+================
+Nama Pemesan :firas
+Pesanan : Nasi Empal
+Harga : 15.000
+Jumlah Pesan : 1
+Total Bayar : 14250
+
+Transaksi Pembayaran
+Masukan Nominal Uang                  Rp: 12000
+Maaf Uang Anda Kurang
+Masukan Nominal Uang                  Rp: 14250
+Kembalian Anda : -2250.0
+Untuk Pelanggan mohon hanya menginputkan angka saja :)
+Masukkan nama anda                  :
